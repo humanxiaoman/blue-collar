@@ -1,0 +1,212 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 680px;
+	background-position: center;
+	
+}
+.main{
+	background-image: url(../img/body.jpg);
+	background-repeat: no-repeat;
+	height: 2315px;
+	background-position: center;
+}
+.all{
+	width: 990px;
+	margin: 0 auto;
+}
+/*价值板块*/
+.title_1 img{
+	display: block;
+	margin: 0 auto;
+	padding-top: 120px;
+}
+/*第一个背景图*/
+.value .tip_1{
+	background-image: url(../img/beijing_1.jpg);
+	background-repeat: no-repeat;
+	height: 250px;
+	margin-left: 74px;
+	margin-top: 25px;
+	width: 150px;
+	float: left;
+}
+.tip_1 h5{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #fff;
+	padding-left: 39px;
+	padding-top: 12px;
+}
+.tip_1 p{
+	font-family: "微软雅黑";
+	line-height: 25px;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-top: 15px;	
+	color: #FFFFFF;
+}
+/*第二个背景图*/
+.value .tip_2{
+	background-image: url(../img/beijing_2.jpg);
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 150px;
+	float: left;
+	margin-left: 74px;
+	margin-top: 25px;
+}
+.tip_2 h5{
+	font-size: 18px;
+	color: #fff;
+	padding-left: 39px;
+	padding-top: 12px;
+}
+.tip_2 p{
+	font-family: "微软雅黑";
+	line-height: 25px;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 5px;	
+}
+/*第三个背景图*/
+.value .tip_3{
+	background-image: url(../img/beijing_1.jpg);
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 150px;
+	float: left;
+	margin-left: 74px;
+	margin-top: 25px;
+}
+.tip_3 h5{
+	font-size: 18px;
+	color: #fff;
+	padding-left: 39px;
+	padding-top: 12px;
+}
+.tip_3 p{
+	font-family: "微软雅黑";
+	line-height: 25px;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 5px;	
+}
+/*第四个背景图*/
+.value .tip_4{
+	background-image: url(../img/beijing_2.jpg);
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 150px;
+	float: left;
+	margin-left: 74px;
+	margin-top: 25px;
+}
+.tip_4 h5{
+	font-size: 18px;
+	color: #fff;
+	padding-left: 39px;
+	padding-top: 12px;
+}
+.tip_4 p{
+	font-family: "微软雅黑";
+	line-height: 25px;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-left: 15px;
+	padding-top: 15px;	
+	padding-right: 5px;
+}
+.value{
+	border-bottom: 2px dashed #00A0E9;
+	padding-bottom: 340px;
+}
+/*资源板块*/
+.title_2 img{
+	display: block;
+	margin: 0 auto;
+	padding-top: 35px;
+}
+.resources p{
+	padding-left: 190px;
+	padding-top: 25px;
+	line-height: 35px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: #F39800;
+}
+/*服务板块*/
+.title_3 img{
+	padding-top: 115px;
+	display: block;
+	margin: 0 auto;
+}
+table{
+	margin: 0 auto;
+	padding-top: 20px;
+}
+table th{
+	border: 1px solid #FFFFFF;
+	height: 40px;
+	background-color: #F39800;
+}
+table td{
+	border: 1px solid #FFFFFF;
+	height: 40px;
+	padding-left: 30px;
+}
+/*合作板块*/
+.cooperation{
+	border-bottom: 2px dashed #00A0E9;
+	padding-bottom: 50px;
+	width: 900px;
+	margin: 0 auto;
+}
+.title_4 img{
+	display: block; 
+	padding-top: 204px;
+	margin: 0 auto;
+}
+.cooperation p{
+	padding-top: 20px;
+	line-height: 25px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: #F39800;
+	text-align: center;
+}
+/*见证板块*/
+.title_5 img{
+	display: block; 
+	padding-top: 80px;
+	margin: 0 auto;
+}
+.witness p{
+	text-align: center;
+	padding-top: 20px;
+	line-height: 25px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color: #F39800;
+	line-height: 80px;
+}
+/*底部版权*/
+.footer p{
+	font-size: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 360px;
+}
+
+
+
